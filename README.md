@@ -25,8 +25,8 @@ Brain tumors account for 85% to 90% of all primary central nervous system tumors
 
 ### Installation <a name="installation"></a>
 
-* Datasets: The complete set of files is publicly available and can be downloaded from Kaggle. Alternatively, you can find the folder (titled _Brain-MRI_) in my Github repository [here](https://github.com/madison-freeman/Brain-Tumor-Classification/tree/main/Brain-MRI).
-* Others: The code can be run in [Google Colab](https://colab.research.google.com/github/nazianafis/Brain-Tumor-Classification/blob/main/Brain_Tumor_Classify.ipynb) as an Interactive Python Notebook (ipynb). No additional installation is required.
+* Datasets: The complete set of files is publicly available and can be downloaded from Kaggle. Alternatively, you can find the folder (titled _Brain-MRI_) in my Github repository [here](https://github.com/madison-freeman/brain-tumor-classification-model/tree/master/Brain-MRI).
+* Others: The code can be run in [Google Colab](https://colab.research.google.com/drive/1XAD2nPRfV0y5vqo5nZJsRf5h_rxBAwLy#scrollTo=M80yL7QlDgMX) as an Interactive Python Notebook (ipynb). No additional installation is required.
     - Colaboratory allows you to use and share Jupyter notebooks with others without having to download, install, or run anything on your own computer (other than a browser).
 
 ### Project Motivation <a name="project-motivation"></a>
@@ -44,14 +44,14 @@ The Project builds a model that is trained on images of Brain MRI Scans, which i
 
 ![dataset](https://raw.githubusercontent.com/madison-freeman/brain-tumor-classification-model/master/screenshots/dataset.png)
 
-I cropped and augmented the images before building, compiling, training, and evaluating the model.
+We cropped and augmented the images before building, compiling, training, and evaluating the model.
 
-![crop](https://github.com/madison-freeman/Brain-Tumor-Classification/blob/main/screenshots/crop-img.png)
+![crop](https://github.com/madison-freeman/brain-tumor-classification-model/blob/master/screenshots/crop-img.png)
 
 ## Results<a name="results"></a>
 In the end, we could validate test images passed through the model.
 
-![validation](https://github.com/madison-freeman/Brain-Tumor-Classification/blob/main/screenshots/valid-img.png)
+![validation](https://github.com/madison-freeman/brain-tumor-classification-model/blob/master/screenshots/valid-img.png)
 
 ## Model Metrics<a name="model-metrics"></a>
 * Accuracy: 97%
