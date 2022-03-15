@@ -54,12 +54,10 @@ In the end, I could validate a test image passed through the model.
 ![validation](https://github.com/nazianafis/Brain-Tumor-Classification/blob/main/screenshots/valid-img.png)
 
 ## Author<a name="author"></a>
-* [Nazia N.](https://github.com/nazianafis)
+* [Madison F.](https://github.com/madison-freeman)
 
 ## Licensing<a name="licensing"></a>
 
 * The dataset is available under the Open Database License [ODbL](http://opendatacommons.org/licenses/odbl/1.0/).
 * Any rights in individual contents of the database are licensed under the [Database Contents License](http://opendatacommons.org/licenses/dbcl/1.0/).
 
-## Acknowledgements<a name="ack"></a>
-Thanks to [Ashish](https://github.com/Ashish-Arya-CS) for his guidance throughout the project.
