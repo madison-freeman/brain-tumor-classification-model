@@ -49,7 +49,7 @@ I cropped and augmented the images before building, compiling, training, and eva
 
 ## Results<a name="results"></a>
 
-In the end, I could validate a test image passed through the model.
+In the end, we could validate test images passed through the model.
 
 ![validation](https://github.com/nazianafis/Brain-Tumor-Classification/blob/main/screenshots/valid-img.png)
 
