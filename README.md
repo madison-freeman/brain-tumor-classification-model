@@ -42,7 +42,7 @@ The Project builds a model that is trained on images of Brain MRI Scans, which i
 > **Meningiomas:** These are the tumors that arise from the Meninges — the membranes that surround the brain and spinal cord. Most meningiomas grow very slowly, often over many years without causing symptoms. 
 > **Pituitary tumors:** These are the tumors that form in the Pituitary — a small gland inside the skull. Most pituitary tumors are often pituitary adenomas, benign growths that do not spread beyond the skull.
 
-![dataset](https://raw.githubusercontent.com/madison-freeman/brain-tumor-classification-model/master/screenshots/dataset.png)
+![dataset](https://raw.githubusercontent.com/madison-freeman/brain-tumor-classification-model/master/screenshots/dataset1.png)
 
 We cropped and augmented the images before building, compiling, training, and evaluating the model.
 
@@ -51,7 +51,7 @@ We cropped and augmented the images before building, compiling, training, and ev
 ## Results<a name="results"></a>
 In the end, we could validate test images passed through the model.
 
-![validation](https://github.com/madison-freeman/brain-tumor-classification-model/blob/master/screenshots/valid-img.png)
+![validation](https://github.com/madison-freeman/brain-tumor-classification-model/blob/master/screenshots/valid-img1.png)
 
 ## Model Metrics<a name="model-metrics"></a>
 * Accuracy: 97.4%
