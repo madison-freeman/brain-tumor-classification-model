@@ -11,7 +11,6 @@
 5. [Model Metrics](#model_metrics)
 6. [Author](#author)
 7. [Licensing](#licensing)
-8. [Acknowledgements](#ack)
 
 ## Overview <a name="overview"></a>
 Brain tumors account for 85% to 90% of all primary central nervous system tumors around the world, with the highest incidence and mortality belonging to high HDI regions. With some image classification techniques, we were able to train a model which could then not only determine the presence of a tumor from Brain MRI Scan but also classify the tumor into one of the following types: Glioma, Meningioma, Pituitary Tumor.
