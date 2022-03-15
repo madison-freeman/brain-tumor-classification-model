@@ -54,10 +54,10 @@ In the end, we could validate test images passed through the model.
 ![validation](https://github.com/madison-freeman/brain-tumor-classification-model/blob/master/screenshots/valid-img.png)
 
 ## Model Metrics<a name="model-metrics"></a>
-* Accuracy: 97%
-* Validation Accuracy: 91%
-* Loss: 6%
-* Validation Loss: 38%
+* Accuracy: 97.4%
+* Validation Accuracy: 94.3%
+* Loss: 7.8%
+* Validation Loss: 17.4%
 
 ## Author<a name="author"></a>
 * [Madison F.](https://github.com/madison-freeman)
